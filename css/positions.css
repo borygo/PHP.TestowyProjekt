@@ -1,0 +1,110 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2014-05-28, 20:26:46
+    Author     : WojtekSz
+*/
+
+.panelGlowny
+{
+    position: relative;
+    //position: fixed;
+    width: 620px;
+    background-color: #ff66cc;
+    color: #003366;
+}
+.panelGlowny-padding
+{
+    position: relative;
+    padding: 10px;
+    //position: fixed;
+    //right: 100px;
+    width: 620px;
+    background-color: #ff66cc;
+    color: #003366;
+}
+.panelWewnetrzny1
+{
+    position: static;
+    //position: relative;
+    //right: 200px;
+    width: 600px;
+    background-color: #99ff33;
+    color: #ff3333;
+}
+.panelWewnetrzny2
+{
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    //position: relative;
+    //right: 200px;
+    width: 200px;
+    background-color: #ffff99;
+    color: #006666;
+}
+
+html, body {
+	background-color: #fff;
+	color: #000;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+
+.top
+{
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
+    width: 780px;
+}
+
+.naglowek
+{
+    width: 780px;
+}
+
+.menu
+{
+    width: 110px;
+    background-color: #00cc99;
+    overflow: hidden;
+    float: left;
+    min-height: 500px;
+}
+
+.menuDummy
+{
+    width: 10px;
+    background-color: #00cc99;
+    overflow: hidden;
+    float: left;
+    min-height: 500px;
+}
+
+.tresc
+{
+    float: left;
+    text-align: left;
+    background-color: #cc99ff;
+    overflow: hidden;
+    width: 770px;
+    min-height: 500px;
+}
+
+.naglowek
+{
+    position: relative
+}
+
+.stopka
+{
+    width: 100%;
+    clear: both;
+}
+

@@ -1,0 +1,46 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 2014-04-22, 19:28:31
+    Author     : WojtekSz
+*/
+div.formularzLeft{
+    padding: 7px;
+    position: absolute;
+    background-color: #660066;
+    left: 0px;
+    border: solid 5px #006666
+}
+div.formularzRight{
+    padding: 7px;
+    position: absolute;
+    background-color: #00ff33;
+    right: 0px;
+    border: solid 5px #990099
+}
+div.formularzBottom{
+    padding: 7px;
+    position: absolute;
+    bottom: 0px;
+    left: 15px;
+    right: 15px;
+    background-color: aqua;
+    color: black;
+    border: solid 3px activecaption;
+    text-align: center
+}
+div.formularzRozwijany{
+    padding: 7px;
+    position: absolute;
+    bottom: 50px;
+    left: 15px;
+    right: 15px;
+    background-color: aqua;
+    color: black;
+    border: solid 3px activecaption;
+    text-align: center
+}
+
